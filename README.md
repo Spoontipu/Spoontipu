@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Student at Stark State
+Majoring in Computer Science
+
+Some interesting facts about me:
+  * I can solve a rubiks cube in under 30 seconds
+  * I can/have played around 13 different instruments
+  * I've been to 4 different states and have been out of the country once
+  * I love gaming and have made a mulitude of differnet mods and plugins for different games
